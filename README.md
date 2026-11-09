@@ -24,5 +24,3 @@ Compile the TypeScript file with the TypeScript compiler:
 ```bash
 tsc solutions.ts
 ```
-
-The generated JavaScript can then be run in a JavaScript runtime that supports Promises and `setTimeout`.
